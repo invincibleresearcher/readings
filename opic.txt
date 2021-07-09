@@ -1,33 +1,106 @@
-3. When people talk about travelling, what are the main issues or concerns 
-they typically raise or discuss? What has caused these concerns? What is 
-being done to address these concerns for the future?
+1. Technology has definitely changed over time. Tell me about an early memory
+that you have about a piece of technology. It could be a computer or a mobile
+phone from many years ago. Describe for me what this thing was like back then.
+How has that technology changed over time?
 -->
-I think that each person would have their own problems and concerns 
-when it comes to travelling. In my case, the biggest concerns are
-the travel cost and the safety. The safety that I mean includes all
-safety issues from any issue from stranger danger to foods and
-accommodation hygiene issues.
+Indeed, science and technology has made remarkable progress over the
+years and it's not difficult to see the technological advances in our daily
+life. Especially, when I have a look at the computer history and how the
+computers have changed from the past, I can say that today's computers are
+totally different from the computers used in my childhood.
 
-First, in my case, I do not enjoy travelling alone, but love to
-travel with my family, meaning I have to pay for everything that
-my family spend and consume during the travel. So, if all travel 
-expenses are beyond my budget, I would be in big trouble with 
-my financial plan and I could not afford to support my family with 
-abundance. In the worst case, my financial plan which I already set up
-correctly would be modified again, which is the issue that I want to
-avoid the most in my life.
+I first used the computers when I was in the elementary school in 
+ninety eighties and the personal computers at that time were very
+bulky and the monitor was also very thick. Also, the storage devices
+used in such old computers were disks, which made very loud noise when
+I tried to read some files on the disk. Also, the operating system at 
+that time was dos, which had no graphic user interface at all, and we 
+couldn't use mouse and all input to the computers were from the keyboard. 
+Also, there was no network devices in the old computers and there was 
+no way to communicate with other people using different computers.
 
-Also, my children are very sensitive to the cleanliness of the 
-hotel room where we stay during travel. If the toilet and shower 
-facilities look dirty, my children would never use them during
-travel and my children would be annoyed day and night throughout
-the trip. Also, I want to make sure that the food we are eating is
-always safe. If not, my family could get food poisoning and I 
-don't want my family to stay in a hospital during all vacation.
-Also, I heard that a lot of crimes occur during travel 
-and most importantly, I would not like to get in trouble with anything
-related with crimes happening in a strange place with strangers.
+Now, my personal computer is macbook laptop pc. Though this laptop is
+not for heavy computing workload, but the computing capacity of my current
+laptop is much more powerful than the computing capacity of super computer
+when I was in the elementary school. Using this laptop, I can play
+games while opening web browsers to chat with other people on the net
+This was called multithreading and this technique was impossible in my old 
+computers.
 
-Once again, the travel expense and the safety are my biggest concerns
-regarding with travel.
+So, the technical advance in computers is amazing and quite impressive.
 
+
+2. Problems often come up because of our dependence on technology. Think
+about a time when you experienced a problem because some piece of technology
+was not working properly. Maybe your computer crashed or maybe your cell
+phone had no service. Tell me about a time when you had some kind of problem
+getting your technology to work.
+-->
+As a computer engineer, I cannot live without computers and in
+using computers in in my life is almost like breathing as in my case.
+So, I always have many problems in my life when I cannot access computers or
+when I cannot do my work because my computer crashes. But among all problems
+that I have experienced, I would like to share the worst and most serious story 
+that I recently experienced using computers.
+
+My father in law has his own business and all documents used in his company including
+the contract information with the company's customers and top secret financial documents 
+have been stored in just one computer, which is used as a server and everyone in
+his company connected their local computers to the server to access those
+documents. Everything looked very peaceful before one terrible incident related 
+with the computers in his company happened. The sad story started when one of
+his employee entered one suspicious web site. Soon after, the malware was
+downloaded and made his computer infected, and then the malware spread all
+other computers which are connected with the employee's computer online and
+the server was also infected. 
+
+After the server got infected by the malware, soon after, all words in the documents 
+stored in the server started encrypted and all files got corrupted. When we tried to open 
+the corrupted files, the computer showed some pop-up messages like "send file
+bit coins to this email address, then we will recover your computer".
+My father in law asked me to recover all his computer systems, but after
+several tries, I realized that there was no way to recover them except paying
+money to the criminals.
+
+So, that was my first experience with bit coin in my life and I could finally recover
+all his documents after paying money by trasferring bitcoins to the criminals' bitcoin 
+account. After experiencing this disaster caused by malware, I employed some
+safe backup method in my father in law's company to prevent future possible
+disaster from computer malware.
+
+Once again, I love to use computers and enjoy its technological advance, but
+I also learned some lessons from the malware that there is also a bad side when
+we are using computers.
+
+
+3. Which piece of technology do you use most often? Do you use computers or
+mobile phones? Tell me about the most typical type of technology you use every
+day.
+-->
+I think that my computers are the devices that I use most often in my life.
+When I work in my company, I have to write technical documents using my 
+computers and need to connect the company server to see some shared documents 
+which are only accessed in special type of network connection. Also, my main job 
+is writing computer languages for software to operate complex electronic devices developed
+in my company. When writhing computer languages is done, I need to log in
+another computer server to build the software again and I need to re-install the software
+containing my revision on some embedded computing systems as well. 
+You may think the embedded computing systems as small computers embedded
+inside electronic products. So, there are many computing devices around me at 
+my work place and every computer from servers and embedded computers are
+connected on the same network. I think that the network technology makes everything 
+connected each other.
+
+After work, when I was home, I enjoy playing games using my computers. My
+main computer that I am using home is macbook, but sadly, my favorite computer 
+games are only available on window microsoft computers. Is it impossible to play
+window games on my macbook ? No, I never gave up to play my favorite games and
+my decision is installing a virtual machine software which emulates window 
+operating system on my macbook without any performance degradation. So, I 
+can now play those games in a virtual microsoft window operating system on
+the top of mac operating system. In the past, this was impossible, but due to
+the advance of computer virtualization technology, I can run the window programs
+in my mac computers or run mac programs in my window computers very easily.
+
+So, I use computer a lot in my life and especially I can get many benefits 
+from computer network systems and computer virtualization.
