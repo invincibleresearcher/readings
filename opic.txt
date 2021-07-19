@@ -1,33 +1,39 @@
-1. Describe something memorable you saw online for work or for leisure.
-Maybe it was something impressive, unusual, humorous or meaningful for you.
-What did you notice about it? What made it special?
+2. What kinds of concerns do people have about internet use?
+They could be about issues regarding security, privacy or safety.
+How have these concerns changed over the times?
 -->
-I remember the first online PC game that I had played and watched 
-together with my friends on the net is the one of the most memorable 
-events in my internet history. The game is starcraft.
-In my university, all students should live in the dormitories and 
-when we had free times, we enjoyed playing PC games in our dormitories.
-But, when I was a freshman, playing games in our dormitories was 
-very inconvenient. At that time, there was no network facilities 
-installed in our dormitories and even more there was no online 
-games released in our country. So, because we couldn't play together 
-games just like what we play online games today, instead we usually gathered 
-in one of our friends' room and took turns for playing games one by one. 
-I still believe that our university provided excellent environments for 
-studying, but it was very poor environment for playing games first time.
+I think that today people mostly concern about their privacy and security issues when it
+comes to the internet. But things were different in the past. When the internet 
+was used first time in nineteen eighties, I heard that there were various 
+network protocols developed for research purposes, and only few students and 
+researchers at universities used the internet for sharing their research 
+information. Since the network size was very small and there was no malicious 
+users at that time, the main issues using the internet was not the personal 
+securities, but the performance issues such as long end to end latency between 
+two end users and slow network throughputs.
 
-But, in nineteen ninety nine when I was a 2nd year student in my university,
-we heard that starcraft was released in Korea, and it was possible to play 
-with our friends in the game as allies or enemies if all the players are 
-connected to the same game server. Soon after the game release news, 
-my university decided to install network facilities in our dorms to improve
-study environments. But unfortunately, we used our network resources for
-online starcraft games, which was exactly opposite to our university's 
-hope. During days and nights, my friends & I had played games or sometimes
-just observe the other friends' games by joining the server online to improve 
-our game skills. It was great fun and very amazing to play games together 
-in different places while chatting each other online for sharing game 
-strategies simultaneously. Although, there were some students who became
-so addicted to starcraft and got F credits and failed in some classes, the
-first time when I played starcraft games online with my university friends
-is still quite memorable.
+However, soon after around nineteen nineties and the early two thousands, 
+the network technologies had advanced a lot and the first version of web browser, 
+which was called navigator, was developed. This made a lot of normal people started 
+to use the internet easily not only for their studies, but also for their hobbies 
+just like reading newspapers and watching TV. After the web browser development, there was no 
+hurdles for accessing the internet itself, but finding the correct information
+on the web became another problem since a lot of information were spread so widely 
+and in a very unstructured way. So, people at that time concerned a lot about how 
+to find the correct web pages which mostly match the user's keywords. So, as 
+results, various web search engines such as lycos, yahoo and google were developed 
+and people started to use them widely and today such web search engine becomes
+the most essential part of our internet browser.
+
+Today, I can say that we are just living in the world of information, and in the
+connected world over the internet and a lot of our personal information are stored 
+in the cloud systems over the network and thus people become much more sensitive 
+about their personal securities and how to protect their privacy against hackers or 
+malicious softwares. Recently, there have been serious incidents regarding icloud photo 
+leak issues. I also heard that some hackers were able to access the apple 
+icloud accounts of several hollowoods celebrities and their photos containing secret 
+privacy were shared on the internet. So, from the icloud leak cases, people today 
+become much more aware of their privacy and security issues.
+
+Once again, as the internet has advanced and changed over the years, people's
+concerns also have varied a lot.
