@@ -1,39 +1,41 @@
-2. What kinds of concerns do people have about internet use?
-They could be about issues regarding security, privacy or safety.
-How have these concerns changed over the times?
+3. How does internet usage vary among people of different age groups?
+How do they use the internet differently? Please discuss this matter 
+in more detail
 -->
-I think that today people mostly concern about their privacy and security issues when it
-comes to the internet. But things were different in the past. When the internet 
-was used first time in nineteen eighties, I heard that there were various 
-network protocols developed for research purposes, and only few students and 
-researchers at universities used the internet for sharing their research 
-information. Since the network size was very small and there was no malicious 
-users at that time, the main issues using the internet was not the personal 
-securities, but the performance issues such as long end to end latency between 
-two end users and slow network throughputs.
+I agree on the opinion that people use the internet differently 
+depending on their ages. First, children use the internet differently 
+from their parents. I have observed many cases such that children are 
+very much exposed to the video contents from youtube before 
+going to the elementary schools. I guess that the main reason for this is 
+simply because there are a lot of youtube channels for kids and such 
+channels always upload different contents regarding toys, dolls and games 
+almost every week. Such contents are enough to attract children's 
+attention and children mainly use their parents' phones or smart tv
+to access the youtube contents on the internet and yet they are not 
+usually allowed to have their own devices for using the internet.
 
-However, soon after around nineteen nineties and the early two thousands, 
-the network technologies had advanced a lot and the first version of web browser, 
-which was called navigator, was developed. This made a lot of normal people started 
-to use the internet easily not only for their studies, but also for their hobbies 
-just like reading newspapers and watching TV. After the web browser development, there was no 
-hurdles for accessing the internet itself, but finding the correct information
-on the web became another problem since a lot of information were spread so widely 
-and in a very unstructured way. So, people at that time concerned a lot about how 
-to find the correct web pages which mostly match the user's keywords. So, as 
-results, various web search engines such as lycos, yahoo and google were developed 
-and people started to use them widely and today such web search engine becomes
-the most essential part of our internet browser.
+When children grow up and start to go to the school, they are also required
+to register online classes and have to watch online classes every day. 
+Because of the corona virus, the administration in our country changed 
+most of school classes into online classes and it's now mandatory for 
+students to watch such online classes and submit their assignment into 
+the education portal system.  So, I guess that today students use 
+the internet mostly to attend online classes and to communicate 
+the school teachers via the education web sites. From this time, 
+children may start using their own devices with large screen such as
+laptops or desktops for online classes and they no longer ask their
+parents to borrow parents' devices for their internet usage.
 
-Today, I can say that we are just living in the world of information, and in the
-connected world over the internet and a lot of our personal information are stored 
-in the cloud systems over the network and thus people become much more sensitive 
-about their personal securities and how to protect their privacy against hackers or 
-malicious softwares. Recently, there have been serious incidents regarding icloud photo 
-leak issues. I also heard that some hackers were able to access the apple 
-icloud accounts of several hollowoods celebrities and their photos containing secret 
-privacy were shared on the internet. So, from the icloud leak cases, people today 
-become much more aware of their privacy and security issues.
+For adults who work for companies, I recently found a new pattern 
+of the internet usage by them. Now, many companies in our country
+ask their employees to work from home because of corona virus spread and
+most employees should be able to login in their companies' intra-network
+systems to remotely connect the company computers from home. For security
+reasons, companies like samsung do not allow such connection from mobile
+devices, but only from employee's PCs, which all network transactions are
+monitored in real-time by the company's security apps. So, during working
+hours, most of adults who work for companies have to stay online on such
+secure internet connection for remote work.
 
-Once again, as the internet has advanced and changed over the years, people's
-concerns also have varied a lot.
+Again, the internet usage differs a lot depending on people's age.
+
