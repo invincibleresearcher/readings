@@ -1,41 +1,38 @@
-3. How does internet usage vary among people of different age groups?
-How do they use the internet differently? Please discuss this matter 
-in more detail
+1. Warm-up
+Tell me how the things you and your friends talk about 
+have changed. What did you talk about when you were young? 
+What do you talk about now?
 -->
-I agree on the opinion that people use the internet differently 
-depending on their ages. First, children use the internet differently 
-from their parents. I have observed many cases such that children are 
-very much exposed to the video contents from youtube before 
-going to the elementary schools. I guess that the main reason for this is 
-simply because there are a lot of youtube channels for kids and such 
-channels always upload different contents regarding toys, dolls and games 
-almost every week. Such contents are enough to attract children's 
-attention and children mainly use their parents' phones or smart tv
-to access the youtube contents on the internet and yet they are not 
-usually allowed to have their own devices for using the internet.
+When we were young, we talked a lot about how to develop our future
+careers and which companies or graduate universities we should go for
+developing our future careers. But today, our main topics changes and
+we usually have a conversation on how to make money such as investment,
+real estates and stock. We also have a conversation on political issues
+in our country.
 
-When children grow up and start to go to the school, they are also required
-to register online classes and have to watch online classes every day. 
-Because of the corona virus, the administration in our country changed 
-most of school classes into online classes and it's now mandatory for 
-students to watch such online classes and submit their assignment into 
-the education portal system.  So, I guess that today students use 
-the internet mostly to attend online classes and to communicate 
-the school teachers via the education web sites. From this time, 
-children may start using their own devices with large screen such as
-laptops or desktops for online classes and they no longer ask their
-parents to borrow parents' devices for their internet usage.
+* common verbs
+- met in [...] school
+- live [time] away from [place]
+- go to/study at [school]
+- have known each other for [...] years
+- talk/chat about [...]
+- have a conversation on/about [...]
+- talk to each other
+- complain about [...]
+- let [...] share/know 
+- be (deeply/so much] into
+- care about
+- spend free time ~ing
+- be good at
+- be a good listener
+- be in a relationship
+- chat on [...]
+- send messages or type
+- good-looking / attractive / adorable / athletic / muscular / well-built
+- skinny / slim / plump / stylish / outgoing / cheerful / talkative
+- thoughtful / caring / considerate / patient / trustworthy / easygoing
+- mean / grumpy / hot-tempered / obnoxious
+- trivial / trifling / minor / insignificant / unimportant
+- major / significant / crucial / historic / upcoming <-> past / unpleasant
 
-For adults who work for companies, I recently found a new pattern 
-of the internet usage by them. Now, many companies in our country
-ask their employees to work from home because of corona virus spread and
-most employees should be able to login in their companies' intra-network
-systems to remotely connect the company computers from home. For security
-reasons, companies like samsung do not allow such connection from mobile
-devices, but only from employee's PCs, which all network transactions are
-monitored in real-time by the company's security apps. So, during working
-hours, most of adults who work for companies have to stay online on such
-secure internet connection for remote work.
-
-Again, the internet usage differs a lot depending on people's age.
 
