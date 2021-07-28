@@ -1,80 +1,95 @@
-B. Tell me about when you had trouble because of severe weather. 
-You might have been sick or had to change you plan. What happened?
+1. warm-up
+Tell me about the time you bought an electronic device such as 
+a cell phone, a computer or a mouse then got disappointed. What 
+was the problem? Did you ask a refund?
 -->
-skipped
+I remember the time when I replaced my old macbook with the new macbook.
+My old macbook had some battery and power issues, so I decided to buy new
+one and went to the apple store without checking the detailed specs of lastest 
+macbook. After buying new one, I found that the new one had smaller number of 
+usb ports than the usb ports in my old laptop, which made me very inconvenient 
+when I use USB mouse and attach other external devices to the laptop together.
+Because everything looked good except the usb ports in my new laptop, I didn't 
+ask refund, but I needed to buy additional usb extender for new macbook.
 
-C. Tell me a place of your country which has unique geographic 
-features. Why does it have peculiar characteristics, you think?
+Fill in the blanks using the expressions you learned above.
+A.
+Q1) I would like to buy this phone with black color. Can I ask you about the
+price for the phone and Do you have any installment plan for this device ?
+
+
+Q2) I am very interested in this new product. Do you have any installment plan
+for this ? I am also wondering what the price of this product will be if I pay
+for this product in five monthly installments.
+
+A) It is 800 dollars and you can pay in up to 5 months installments.
+
+B.
+Q1) I am looking for latest iphone twelve with sixty four giga bytes storage.
+Do you have stock in you store ? 
+
+Q2) I like this t-shirt, but I don't think the color fit me well.
+Do you also have same t-shirt with different colors in stock ?
+
+A) We have white, sliver and rose gold in stock
+
+C.
+Q) ___(blank)____? I'm afraid that I got a defective product. 
+
+Q1) The latest iphone is very expensive. Do you have any 
+refurbished phone in your store ?
+
+Q2) I heard that refurbished samsung TVs are on sales promotion this week.
+I am very interested in buying new one. Do you mind if I ask how many stocks are left in store ?
+
+A) We have about 3 left. You should hurry if you want to make a purchase.
+
+3. Opic Question
+Q11. I'd like to give you a situation and ask you to act it out.
+You would like to buy a new cell phone. Call a store and ask three or 
+four questions about a new phone you would like to purchase. 
 -->
-In my opinion, Sokcho is one of the most unique places in our country.
-Sokcho is located in the east coast in Kangwon Province and this city is
-also very near from many famous mountains such as Seok-Ark mountain.
-Whether it's superstition or fun, many people in my country make our wishes while 
-watching the sunrise. Because Seok-Ark mountain has many beautiful places 
-for the sunrise, people in my country really love to travel to Seok-Ark mountain 
-to see the sunrise. For the visitors in Seok-Ark, Sokcho city provides various
-convenient facilities and there are a lot of hotels to stay during the visit 
-of Seo-Ark mountain.
-
-Also, Sokcho is so famous for raw fish and crab foods, because it has its own 
-sea port and various fish markets near the sea port. A lot of people visit
-these markets because freshly caught fishes arrive in the market everyday
-and people are able to buy such best quality raw fishes with very cheap prices.
-If you like eating raw fishes and crab foods, Sokcho is the best place to be visited.
-It will be fun but you should also watch out the rip-off when trying to buy fishes 
-in the local markets.
-
-Also, Sokcho has beautiful beach with very clean sands. Korea has 
-sea on its three sides and there are a lot of beaches in our country.
-But the beach in this city differs a lot from others and what make it so special 
-is that there exists a lake just next to the beaches and this lakes was made 
-naturally by wind and sands a long time ago. Because of the geographically 
-uniqueness in this place, there is also very famous poem about this place 
-which one old poet wrote after visiting this place. He wrote that he found 
-five different moon here. First moon is in the sky, the second and the third 
-moon is reflected on the see and the lake. The fourth moon from the glass of 
-liquor he holds and the last but most beautiful moon is reflected on the 
-eyes of his lover.
-
-Because Sokcho has very unusual beach and is very near from Seok-Ark mountin,
-I think that this city is so unique in my country.
+Hello, I am looking for a new iphone. May I ask a few questions about
+the product ? Or, can I speak to someone who can answer my questions ?
+I called other stores and they said they don't have latest iphones with 
+black color in stock. Do you have latest black iphones in stock ? 
+What is the total price of iphone with sixty four giga bytes storage 
+including 2 years applecare plan ? I heard that the screen in the latest
+iphone is very weak and might be cracked very easily. Does the default applecare 
+cover the screen repair ? I heard that the warranty period of the default 
+applecare is one year. Can I purchase new applecare plan later after the
+default plan expired ? I usually spend four giga bytes for wireless internet.
+Can you recommend the best data plan for me ? And how is the price ?
+If I bring my old iphone to your store, can you help me to migrate every photos 
+and data from old iphone to new one ? Is it free ?
 
 
-3. opic question
-Tell me about some news you heard or watched related to severe weather 
-or a natural disaster.
+Q12. I'm sorry, but there is a problem which I want you to resolve.
+You have received the new phone, but the features are not what you expected. 
+Call the store, explain the situation, and give several alternatives to 
+handle the problem. 
 -->
-When I was in USA, I sometimes visited New York city for meeting my wife and
-one day, I also went to my wife's apartment at New York city for helping her
-move. But after arriving at LaGuardia airport, I took a taxi to my 
-wife's apartment and the taxi driver told me that a hurricane Irene 
-might hit the city and we might reconsider our moving schedule because 
-of the possibility of an evacuation order by the city mayor.
+Hello, I bought new galaxy phone last week in your store, but have a 
+problem with this product. May I ask you to help me out please ? Or, 
+can I speak to someone who can take care of my issue ?
 
-At that time, because we were from Korea and never experienced a hurricane
-before, my wife and I just decided to stay home while watching news from TV
-and the internet to re-schedule our moving plan. From the news, we realized
-that the power of Irene hurricane was so strong that a lot of houses in the east
-coast were already destroyed and the hurricane was getting stronger and was 
-heading towards New York city. On the top of that, we also heard from news 
-that many people already stocked up on foods and supplies to prepare for 
-emergency. After hearing such news, my wife and I also went out for buying
-some foods and found out that almost every mart around my wife's apartment 
-were already closed. So, we called a taxi and asked the driver to go to any 
-mart where we could buy foods and he drove to a grocery store near his home
-and we finally could buy some foods and milk at the end.
+Today, I just turned on my phone in the morning, but after calling three
+times during 10 minutes, I found that the phone became very hot and even 
+though I killed several apps running as background, I couldn't cool the 
+phone down. I just turned it off and let the phone cool down for a while
+but after turning on again, such thermal issue still remains.
 
-At night, electricity finally went out in her apartment and what we could do
-was just reading the hurricane news using our phones while staying in the
-darkness. After one day, I also heard from the news that New York city was 
-safe, but some areas in other states were flooded severely and many people lost 
-their houses and cars or even families. In some news, the disaster experts 
-also estimated that hurricane damage caused massive losses in some insurance 
-companies and the stock prices of those companies would get worse or some insurance 
-companies would go bankrupted in the worst case.
+So, I would like to have a refund for this device. I still have my receipt
+for this. Can you share some guideline for this ? Do you also want me to bring
+all phone packaging box together with receipt for a refund ? Please tell me
+everything I need for a refund. 
 
-As far as I remember, hurricane Irene was the worst disaster we experienced
-and watched and I felt very sorry after hearing many people's losses about 
-family death and their properties.
+If refund is not possible, I would like to replace the galaxy phone with
+galaxy note ten. If the price of galaxy note ten is higher than the price
+of the galaxy phone that I bought, I don't mind to pay more. Can you check
+if this also works in my case ?
 
-
+If refund or replacement for my phone doesn't work at all, I would like to
+inspect my new phone using the phone repair service. Can you check if the
+warranty plan that I bought together also covers the cost for this ? Can
+you find the nearest phone repair shops from my place ?
