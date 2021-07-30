@@ -1,95 +1,133 @@
+1.1 another warm-up
+Situation: The shirt that I bought has a problem and I would like to return
+this.
+-->
+Hello, this is <?> and I am calling to see if I would like to 
+get a refund for the T-shirt that I bought last week in your store.
+Because there's no dressing rooms available in your store when I visited
+your store, I didn't try to wear the shirt to check the size carefully
+and just return to home. But after getting home, I just found that
+the T-shirt is very tight and doesn't fit me well. I would like to 
+replace the T-shirt with a different shirt.
+
+I have the receipt and didn't wear the shirt after checking the size.
+If the replacement is possible, What do I need to bring when visiting 
+your store for the replacement ? Do you also need my credit card that
+I used when paying for the shirt ?
+
+Please let me know when your store will be open next week. After confirming
+my questions, please call me back. You can reach me at six-four-six five
+three four 0 one two five.
+
+
 1. warm-up
-Tell me about the time you bought an electronic device such as 
-a cell phone, a computer or a mouse then got disappointed. What 
-was the problem? Did you ask a refund?
+Tell me about the time you had a trouble at a bank. What happened and
+how did you handle the situation ?
 -->
-I remember the time when I replaced my old macbook with the new macbook.
-My old macbook had some battery and power issues, so I decided to buy new
-one and went to the apple store without checking the detailed specs of lastest 
-macbook. After buying new one, I found that the new one had smaller number of 
-usb ports than the usb ports in my old laptop, which made me very inconvenient 
-when I use USB mouse and attach other external devices to the laptop together.
-Because everything looked good except the usb ports in my new laptop, I didn't 
-ask refund, but I needed to buy additional usb extender for new macbook.
+Hmmm.. I've stayed in Ann Arbor, Michigan for my study and the first thing
+that I did after arriving at Ann arbor was opening a bank account. But at
+that time, I didn't know exactly what kind of documents were needed to
+open a bank account. 
 
-Fill in the blanks using the expressions you learned above.
-A.
-Q1) I would like to buy this phone with black color. Can I ask you about the
-price for the phone and Do you have any installment plan for this device ?
+So, I just brought my passport with VISA and my I-20 document and visited
+a chase bank office near my apartment, but fount out that it was very
+difficult for foreigners to open an account at chase and they required
+me to bring more documents such as social security number and the utility
+bills at my current address during the last three months and everything 
+was not ready at that time.
+
+After failing to open an account in chase, I visited at the help center
+for foreigners at my university and the guide told me that I could make
+a bank account at credit union bank only with VISA and I-20 and I finally
+opened a bank account even without social security number two days after
+I landed in the united states.
+
+2.
+A) fill the question
+Q1. I would like to transfer one thousand dollar to this account. How long does it take ?
+So I suspect a mechanical defect.
+Q2. Hello, I need to make a cashier's check with one thousand dollar for car purchase one hour later. 
+Could you check how long does it take ?
+A. It will take about 5 to 10 minutes.
+
+B) fill the question
+Q. Hello, I heard that there's an event for opening a new account in your bank
+branch. Can I also get a gift for opening a new account this week ? May I ask how long the event is held ?
+A. Yes. If you visit before next Wednesday, you can get a free gift.
+
+C) fill the answer
+Q. We are really sorry, there must have been a mistake. Can you say what would you like? 
+A. I said I wanted a cashier's check with fifty thousand, not fifteen thousand
+dollars. Or, if you already issued fifteen thousand cashier's check, can you
+issue another cashier's check with thirty five thousand dollar ?
 
 
-Q2) I am very interested in this new product. Do you have any installment plan
-for this ? I am also wondering what the price of this product will be if I pay
-for this product in five monthly installments.
-
-A) It is 800 dollars and you can pay in up to 5 months installments.
-
-B.
-Q1) I am looking for latest iphone twelve with sixty four giga bytes storage.
-Do you have stock in you store ? 
-
-Q2) I like this t-shirt, but I don't think the color fit me well.
-Do you also have same t-shirt with different colors in stock ?
-
-A) We have white, sliver and rose gold in stock
-
-C.
-Q) ___(blank)____? I'm afraid that I got a defective product. 
-
-Q1) The latest iphone is very expensive. Do you have any 
-refurbished phone in your store ?
-
-Q2) I heard that refurbished samsung TVs are on sales promotion this week.
-I am very interested in buying new one. Do you mind if I ask how many stocks are left in store ?
-
-A) We have about 3 left. You should hurry if you want to make a purchase.
-
-3. Opic Question
-Q11. I'd like to give you a situation and ask you to act it out.
-You would like to buy a new cell phone. Call a store and ask three or 
-four questions about a new phone you would like to purchase. 
+3. Opic question
+Q11.
+I'd like to give you a situation and ask you to act it out. You need to 
+open a new bank account. Call a bank and ask the bank employee three or 
+four questions about opening a new account.
 -->
-Hello, I am looking for a new iphone. May I ask a few questions about
-the product ? Or, can I speak to someone who can answer my questions ?
-I called other stores and they said they don't have latest iphones with 
-black color in stock. Do you have latest black iphones in stock ? 
-What is the total price of iphone with sixty four giga bytes storage 
-including 2 years applecare plan ? I heard that the screen in the latest
-iphone is very weak and might be cracked very easily. Does the default applecare 
-cover the screen repair ? I heard that the warranty period of the default 
-applecare is one year. Can I purchase new applecare plan later after the
-default plan expired ? I usually spend four giga bytes for wireless internet.
-Can you recommend the best data plan for me ? And how is the price ?
-If I bring my old iphone to your store, can you help me to migrate every photos 
-and data from old iphone to new one ? Is it free ?
+Hello, This is <..> . I am just calling to find out if I am able to
+open a new checking account online. After installing the bank app, I 
+tried to open an account as what guidelines said, but the app keeps 
+showing some error messages like scan some documents correctly and upload
+them using the app. Can you check what causes such errors ? My online
+account ID is <..>.
+
+Can you also check whether it's related the size of scanned image or file
+format ? Because the file size of scanned documents are so big, I just
+transform the jpeg file format to png file format to meet the file size
+constraints, which the guideline mentioned that the scanned file size should
+be less than one mega byte.
+
+If everything is done, I also would like to share my checking account with
+my wife's account and she already has her online account in your bank.
+Is it possible to share my new checking account with my wife ? Can I do
+account sharing using your bank app ?
+
+I also have one more question regarding minimum balance at your bank account.
+How much should I keep in the bank to avoid the account maintenance fee ? If I 
+change my salary bank account to the new checking account in your bank, does
+it decrease the minimum balance threshold ? 
+
+After checking all of my questions at your side, please call me back. 
+You can reach me at six-four-six five three four 0 one two five.
+I hope this is not too much to ask. Thanks a lot, bye.
 
 
-Q12. I'm sorry, but there is a problem which I want you to resolve.
-You have received the new phone, but the features are not what you expected. 
-Call the store, explain the situation, and give several alternatives to 
-handle the problem. 
+Q12.
+I'm sorry, but there is a problem which I want you to resolve. You just 
+got your new credit card but found out that there is something wrong with 
+it. Call the bank, explain the situation, and solve the problem. 
 -->
-Hello, I bought new galaxy phone last week in your store, but have a 
-problem with this product. May I ask you to help me out please ? Or, 
-can I speak to someone who can take care of my issue ?
+Hello, This is <..> calling. Yesterday, my new credit card was delivered 
+to my home and I just activated my card using my mobile bank app according to 
+the guideline written on the sticker on the backside of the credit card. But 
+after two hours later, I tried to use my new credit card for paying bus fare, 
+but it didn't work at all. After that, I also tried to use the card again in 
+a convenient store, but still the payment was not approved. Can you help
+me out to fix this problem ?
 
-Today, I just turned on my phone in the morning, but after calling three
-times during 10 minutes, I found that the phone became very hot and even 
-though I killed several apps running as background, I couldn't cool the 
-phone down. I just turned it off and let the phone cool down for a while
-but after turning on again, such thermal issue still remains.
+First, I would like to confirm if my activation was done correctly. 
+When I use the mobile app for activation, I didn't see any error message 
+from the app and didn't see any network connection problem in my phone.
+Please confirm that your service team did not miss my activation. If the
+mobile bank app is problematic, Do I need to do activation again by 
+calling the customer service number ?
 
-So, I would like to have a refund for this device. I still have my receipt
-for this. Can you share some guideline for this ? Do you also want me to bring
-all phone packaging box together with receipt for a refund ? Please tell me
-everything I need for a refund. 
+Also, can you confirm the possibility of defective IC card on my
+credit card ?  After failing to use a credit card using an IC card 
+directly, I just decided to use it in samsung pay app. So, I registered
+the new card number into my samsung pay app and tried to pay using it
+in a different store. Then, I saw the payment was approved. So, I
+I also suspect some mechanical defects in my credit card a lot.
 
-If refund is not possible, I would like to replace the galaxy phone with
-galaxy note ten. If the price of galaxy note ten is higher than the price
-of the galaxy phone that I bought, I don't mind to pay more. Can you check
-if this also works in my case ?
+If this is also confirmed in your side, I would like you to cancel
+the activation of my credit card you just sent and ask you to
+send another valid credit card again to my address. My home address
+is one five three four Pine Valley BLVD Ann Arbor Michigan. 
+I hope you check my message soon and please call me back.
+You can reach me at six-four-six five three four 0 one two five.
+Thanks a lot, bye.
 
-If refund or replacement for my phone doesn't work at all, I would like to
-inspect my new phone using the phone repair service. Can you check if the
-warranty plan that I bought together also covers the cost for this ? Can
-you find the nearest phone repair shops from my place ?
